@@ -5,11 +5,11 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #808080; 
+    background-color: #303030; 
 }
 
 header {
-    background-color: #808080; 
+    background-color: #303030; 
     padding: 10px 20px;
     border-bottom: 2px solid #fff;
 }
@@ -49,7 +49,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background-color: #001d3d;
+    background-color: #000000;
     color: #fefefe;
     padding: 80px 40px;
     text-align: center;
@@ -63,7 +63,7 @@ nav ul li a:hover {
 .footer {
     text-align: center;
     padding: 20px 0;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #00ffff;
 }
 
 .content {
