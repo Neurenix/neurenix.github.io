@@ -5,11 +5,11 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #303030; 
+    background-color: #1a1a1a; 
 }
 
 header {
-    background-color: #303030; 
+    background-color: #1a1a1a; 
     padding: 10px 20px;
     border-bottom: 2px solid #fff;
 }
