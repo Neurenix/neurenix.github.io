@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /offline.html
+Allow: /
+Sitemap: https://neurenix.github.io/sitemap.xml 
